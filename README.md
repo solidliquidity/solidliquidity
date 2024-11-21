@@ -1,4 +1,4 @@
-## Hi there 👋
+## Project portfolio exploring dual interests of finance and technology
 
 <!--
 **solidliquidity/solidliquidity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
